@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/master-manju/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/master-manju/static/js/main.6162afbf.chunk.js",
+    "main.js.map": "/master-manju/static/js/main.6162afbf.chunk.js.map",
+    "runtime-main.js": "/master-manju/static/js/runtime-main.60c2361b.js",
+    "runtime-main.js.map": "/master-manju/static/js/runtime-main.60c2361b.js.map",
+    "static/css/2.150d169a.chunk.css": "/master-manju/static/css/2.150d169a.chunk.css",
+    "static/js/2.c373bc00.chunk.js": "/master-manju/static/js/2.c373bc00.chunk.js",
+    "static/js/2.c373bc00.chunk.js.map": "/master-manju/static/js/2.c373bc00.chunk.js.map",
+    "static/js/3.324fd019.chunk.js": "/master-manju/static/js/3.324fd019.chunk.js",
+    "static/js/3.324fd019.chunk.js.map": "/master-manju/static/js/3.324fd019.chunk.js.map",
+    "index.html": "/master-manju/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/master-manju/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.8c8b27cf.chunk.css.map": "/master-manju/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.c373bc00.chunk.js.LICENSE.txt": "/master-manju/static/js/2.c373bc00.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.60c2361b.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.c373bc00.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.6162afbf.chunk.js"
+  ]
+}
